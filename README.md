@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">🫧 I’m currently working on AI/Machine-Deep Learning/Data Science<br>🐚How to reach me nazlitemiz45@gmail.com</p>
+<p align="left">
+  🐚How to reach me nazlitemiz45@gmail.com</p>
 
 ###
 
